@@ -1,0 +1,21 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.wrap h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+body {
+    background-color: #fff1f1f6;
+    font-family: 'Arial', sans-serif;
+    
+}
